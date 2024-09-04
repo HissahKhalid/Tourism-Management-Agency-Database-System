@@ -16,8 +16,8 @@ Welcome to the Tourism Management Agency Database System, This project is develo
 ## Screenshots
 
 <div style="display: flex; gap: 10px;">
-  <img src="output/1.png" alt="Screenshot 1" width="300"/>
-  <img src="output/2.png" alt="Screenshot 2" width="300"/>
+  <img src="output/1" alt="Screenshot 1" width="300"/>
+  <img src="output/2" alt="Screenshot 2" width="300"/>
 </div>
 
 ## Contributing
